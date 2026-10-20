@@ -1,0 +1,12 @@
+pytest==9.1.1
+ruff==0.17.1
+hypothesis==6.170.5
+pydantic==2.14.1
+numpy
+matplotlib
+pybullet
+mujoco
+fastapi
+httpx
+scikit-learn
+prometheus-client
