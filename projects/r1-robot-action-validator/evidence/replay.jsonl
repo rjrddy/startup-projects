@@ -1,0 +1,1024 @@
+{"input": null, "accepted": false, "position": null}
+{"input": [], "accepted": false, "position": null}
+{"input": {}, "accepted": false, "position": null}
+{"input": {"kind": "stop"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": -9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": [], "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": {}, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": {}, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": "bad", "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": -9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": "bad", "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": null, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": 9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": []}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": -9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": [], "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": null}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": {}}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 9999, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": "bad"}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 9999, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": null, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": -9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 9999}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": "bad", "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": [], "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": {}, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": null, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": [], "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 9999, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": -9999, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "bad", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10, "extra": []}, "accepted": false, "position": null}
+{"input": {"kind": null, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": {}, "x": 0.2, "y": 0.3, "z": 0.4, "steps": 10}, "accepted": false, "position": null}
+{"input": {"kind": "move", "x": 0.0, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.0, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.01, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.01, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.02, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.02, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.03, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.03, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.04, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.04, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.05, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.05, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.06, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.06, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.07, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.07, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.08, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.08, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.09, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.09, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.1, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.1, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.11, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.11, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.12, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.12, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.13, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.13, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.14, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.14, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.15, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.15, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.16, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.16, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.17, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.17, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.18, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.18, 0.0, 0.5]}
+{"input": {"kind": "move", "x": 0.19, "y": 0.0, "z": 0.5, "steps": 10}, "accepted": true, "position": [0.19, 0.0, 0.5]}

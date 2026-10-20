@@ -1,0 +1,8 @@
+{
+  "invalid_actions": 1004,
+  "rejected": 1004,
+  "before_failure_rate": 1.0,
+  "after_failure_rate": 0.0,
+  "replay_matches": 1024,
+  "valid_simulated": 20
+}

@@ -1,0 +1,9 @@
+[project]
+name = "r1-robot-action-validator"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["pydantic", "pybullet"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+[tool.ruff]
+line-length = 100

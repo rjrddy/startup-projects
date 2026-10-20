@@ -1,0 +1,5 @@
+$ ../../.venv/bin/python src/unsafe_gate.py
+FAIL: unsafe baseline accepted 1004 invalid actions
+pybullet build time: Oct 20 2026 00:24:36
+
+exit_code=1
