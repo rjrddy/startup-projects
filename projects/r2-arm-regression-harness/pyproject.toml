@@ -1,0 +1,9 @@
+[project]
+name = "r2-arm-regression-harness"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["mujoco"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+[tool.ruff]
+line-length = 100
